@@ -28,11 +28,6 @@ close.addEventListener('click', function()
     tl.reverse();
 })
 
-
-
-
-
-
 // PreEffect
 
 let t2= gsap.timeline()
@@ -121,7 +116,6 @@ gsap.to("#movingElement1",{
        
 
     }
-    
 
 })
 gsap.to("#movingElementa",{
@@ -158,7 +152,6 @@ gsap.to("#movingElement2",{
     scrollTrigger:{
         trigger:".page1",
         scroller:"body",
-
 
     }
     
