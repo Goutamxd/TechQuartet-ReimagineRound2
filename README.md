@@ -31,10 +31,10 @@ Note: Unlike our previous project (Gucci website), we did not use Swiper.js in t
 ✅ 💨 Smooth Animations – GSAP-powered transitions for an enhanced browsing experience
 ✅ 📱 Fully Responsive Design – Optimized for all screen sizes
 
-# 👥 Our Team
+# 👥 Our Team - TechQuartet
 This project was built by our dedicated team during the hackathon:
 
-👨‍💻 Goutam Saha
+👨‍💻 Goutam 
 👩‍💻 Somaya
 👩‍💻 Somaya2
 👩‍💻 Priyanshi
